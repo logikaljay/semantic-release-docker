@@ -1,5 +1,5 @@
 {
-  "name": "@logikaljay/semantic-release-docker",
+  "name": "@3o2/semantic-release-docker",
   "private": false,
   "version": "1.1.2",
   "description": "docker package",
@@ -80,7 +80,6 @@
     "semver": "^7.3.2"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   }
 }
