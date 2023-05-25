@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/esatterwhite/semantic-release-docker.git"
+    "url": "git+ssh://git@github.com/logikaljay/semantic-release-docker.git"
   },
   "tap": {
     "ts": false,
