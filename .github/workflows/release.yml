@@ -42,3 +42,5 @@ jobs:
           GIT_COMMITTER_NAME: 'Dependant Bot'
           GIT_COMMITTER_EMAIL: 'release-bot@codedependant.net'
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+          
