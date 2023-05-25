@@ -1,5 +1,5 @@
 {
-  "name": "@codedependant/semantic-release-docker",
+  "name": "@logikaljay/semantic-release-docker",
   "private": false,
   "version": "4.3.0",
   "description": "docker package",

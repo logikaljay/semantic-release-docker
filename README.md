@@ -56,6 +56,7 @@ omitted, it is assumed the docker daemon is already authenticated with the targe
 | `dockerVerifyCmd` | _Optional_. If specified, during the verify stage, the specified command will execute in a container of the build image. If the command errors, the release will fail. | [String][]                  | `false`                                                       |
 | `dockerNetwork`   | _Optional_. Specify the Docker network to use while the image is building.                                                                                             | [String][]                  | `default`                                                     |
 | `dockerAutoClean` | _Optional_. If set to true                                                                                                                                             | [Boolean][]                 | `true`                                                        |
+| `dockerPlatform`  | _Optional_. Specify the platforms to build for.                                                                                                                        | [String[]][]                |                                                               |
 
 ### Build Arguments
 
