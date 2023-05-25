@@ -1,7 +1,7 @@
 {
   "name": "@3o2/semantic-release-docker",
   "private": false,
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "docker package",
   "main": "index.js",
   "files": [
