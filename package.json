@@ -28,9 +28,6 @@
   ],
   "author": "Eric Satterwhite <esatterwhite@wi.rr.com>",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/logikaljay/semantic-release-docker.git"
@@ -81,5 +78,9 @@
     "execa": "^4.0.2",
     "handlebars": "^4.7.7",
     "semver": "^7.3.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   }
 }
