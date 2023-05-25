@@ -1,5 +1,18 @@
 # Semantic Release Docker
 
+## [1.2.1](https://github.com/logikaljay/semantic-release-docker/compare/v1.2.0...v1.2.1) (2023-05-25)
+
+
+### Bug Fixes
+
+* github packages are bad [d5fcc72](https://github.com/logikaljay/semantic-release-docker/commit/d5fcc72109cb24c0b79be2b9c2a86018687c307e) - Jay Baker
+* use npm token [b540a42](https://github.com/logikaljay/semantic-release-docker/commit/b540a427746acb29a910613ab91248eb744d1cec) - Jay Baker
+
+
+### Miscellaneous
+
+* Merge branch 'main' of https://github.com/logikaljay/semantic-release-docker [175344a](https://github.com/logikaljay/semantic-release-docker/commit/175344a029c64c1faaf76450d896cf1c38488582) - Jay Baker
+
 # [1.2.0](https://github.com/logikaljay/semantic-release-docker/compare/v1.1.2...v1.2.0) (2023-05-25)
 
 
