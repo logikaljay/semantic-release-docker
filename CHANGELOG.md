@@ -1,5 +1,17 @@
 # Semantic Release Docker
 
+# [1.2.0](https://github.com/logikaljay/semantic-release-docker/compare/v1.1.2...v1.2.0) (2023-05-25)
+
+
+### Features
+
+* use --load with platform builds [dcba65e](https://github.com/logikaljay/semantic-release-docker/commit/dcba65e48378199362b0eec575f231677ee1f165) - Jay Baker
+
+
+### Miscellaneous
+
+* Merge branch 'main' of https://github.com/logikaljay/semantic-release-docker [90cab86](https://github.com/logikaljay/semantic-release-docker/commit/90cab868c7ed848c3b9ac51f034e571d32365b9e) - Jay Baker
+
 ## [1.1.2](https://github.com/logikaljay/semantic-release-docker/compare/v1.1.1...v1.1.2) (2023-05-25)
 
 
