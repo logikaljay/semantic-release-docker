@@ -1,5 +1,17 @@
 # Semantic Release Docker
 
+# [1.1.0](https://github.com/logikaljay/semantic-release-docker/compare/v1.0.0...v1.1.0) (2023-05-25)
+
+
+### Features
+
+* add quiet option in [97ea670](https://github.com/logikaljay/semantic-release-docker/commit/97ea670e368d6f2fad2ae7a4ba223eed44896a88) - Jay Baker
+
+
+### Miscellaneous
+
+* Merge branch 'main' of https://github.com/logikaljay/semantic-release-docker [8f5118a](https://github.com/logikaljay/semantic-release-docker/commit/8f5118ac9c4c1ba6f637d99b2ff7073d756eac17) - Jay Baker
+
 # 1.0.0 (2023-05-25)
 
 
