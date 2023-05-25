@@ -1,5 +1,17 @@
 # Semantic Release Docker
 
+## [1.1.1](https://github.com/logikaljay/semantic-release-docker/compare/v1.1.0...v1.1.1) (2023-05-25)
+
+
+### Bug Fixes
+
+* publish to github [045b9a5](https://github.com/logikaljay/semantic-release-docker/commit/045b9a50f203687dd68198bb6e899673107aa37b) - Jay Baker
+
+
+### Miscellaneous
+
+* Merge branch 'main' of https://github.com/logikaljay/semantic-release-docker [e79d335](https://github.com/logikaljay/semantic-release-docker/commit/e79d3355eeca05e907bd8f95bb7aad5a863fff39) - Jay Baker
+
 # [1.1.0](https://github.com/logikaljay/semantic-release-docker/compare/v1.0.0...v1.1.0) (2023-05-25)
 
 
